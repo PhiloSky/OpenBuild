@@ -200,7 +200,7 @@
   <project path="packages/wallpapers/MagicSmoke" name="LeWaCode/android_packages_wallpapers_MagicSmoke" />
   <project path="packages/wallpapers/MusicVisualization" name="LeWaCode/android_packages_wallpapers_MusicVisualization" />
   <project path="prebuilt" name="LeWaCode/android_prebuilt" />
-  <project path="sdk" name="LeWaCode/android_sdk" revision="tools_r7" />
+  <project path="sdk" name="LeWaCode/android_sdk" />
   <project path="system/bluetooth" name="LeWaCode/android_system_bluetooth" />
   <project path="system/core" name="LeWaCode/android_system_core" />
   <project path="system/extras" name="LeWaCode/android_system_extras" />
@@ -209,16 +209,5 @@
   <project path="system/su" name="LeWaCode/android_system_su" />
   <project path="system/vold" name="LeWaCode/android_system_vold" />
   <project path="system/wlan/ti" name="LeWaCode/android_system_wlan_ti" />
-
-  <project path="vendor/cyanogen" name="LeWaCode/android_vendor_cyanogen" />
-  <project path="vendor/qcom/opensource/webkit" name="LeWaCode/android_vendor_qcom_opensource_webkit" />
-  <project path="vendor/tmobile/apps/ThemeChooser" name="LeWaCode/themes-platform-vendor-tmobile-apps-ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="LeWaCode/android_vendor_tmobile_libs_com.tmobile.themes" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="LeWaCode/android_vendor_tmobile_providers_ThemeManager" />
-  <project path="vendor/tmobile/themes/Androidian" name="LeWaCode/android_vendor_tmobile_themes_Androidian" />
-  <project path="vendor/tmobile/themes/Cyanbread" name="LeWaCode/android_vendor_tmobile_themes_Cyanbread" />
-  <project path="vendor/tmobile/products/themes" name="LeWaCode/android_vendor_tmobile_products_themes" />
-
-  <project path="android" name="LeWaCode/android" />
 
 </manifest>
