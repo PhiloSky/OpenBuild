@@ -14,7 +14,7 @@
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
-  <project path="development" name="CyanogenMod/android_development" />
+  <project path="development" name="LeWaCode/android_development" />
   <project path="device/common" name="LeWaCode/android_device_common" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
@@ -50,6 +50,7 @@
   <project path="external/flac" name="CyanogenMod/android_external_flac" />
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" />
   <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
+  <project path="external/gadaemon" name="LeWaCode/android_external_gadaemon" />
   <project path="external/genext2fs" name="CyanogenMod/android_external_genext2fs" />
   <project path="external/giflib" name="CyanogenMod/android_external_giflib" />
   <project path="external/grub" name="CyanogenMod/android_external_grub" />
@@ -66,8 +67,10 @@
   <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
   <project path="external/kernel-headers" name="CyanogenMod/android_external_kernel-headers" />
+  <project path="external/lame" name="LeWaCode/android_external_lame" />
   <project path="external/libexif" name="CyanogenMod/android_external_libexif" />
   <project path="external/libffi" name="CyanogenMod/android_external_libffi" />
+  <project path="external/libga" name="LeWaCode/android_external_libga" />
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
