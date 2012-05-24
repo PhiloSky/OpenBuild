@@ -163,7 +163,7 @@
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="LeWaCode/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
-  <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
+  <project path="packages/apps/SoundRecorder" name="LeWaCode/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/Superuser" name="LeWaCode/android_packages_apps_Superuser" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
