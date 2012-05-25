@@ -3,7 +3,7 @@
   <remote  name="github"
            fetch=".." />
 
-  <default revision="gb-release-7.2"
+  <default revision="lewacode"
            remote="github" />
 
   <project path="build" name="LeWaCode/android_build">
