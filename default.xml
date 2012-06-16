@@ -137,7 +137,7 @@
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
-  <project path="libcore" name="CyanogenMod/android_libcore" />
+  <project path="libcore" name="LeWaCode/android_libcore" revision="lewacode" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/AicBootFix" name="CyanogenMod/android_packages_apps_AicBootFix" revision="master"/>
   <project path="packages/apps/Bluetooth" name="LeWaCode/android_packages_apps_Bluetooth" revision="lewacode" />
