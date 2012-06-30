@@ -16,6 +16,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="LeWaCode/android_development" revision="lewacode" />
   <project path="device/common" name="LeWaCode/android_device_common" revision="lewacode" />
+  <project path="device/zte" name="LeWaCode/android_device_zte" revision="lewacode" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
