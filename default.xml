@@ -12,7 +12,7 @@
   <project path="bionic" name="LeWaCode/android_bionic" revision="lewacode" />
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
+  <project path="bootable/recovery" name="LeWaCode/lewa_bootable_recovery" revision="lewacode" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="LeWaCode/android_development" revision="lewacode" />
   <project path="device/common" name="LeWaCode/android_device_common" revision="lewacode" />
