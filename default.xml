@@ -16,6 +16,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="LeWaCode/android_development" revision="lewacode" />
   <project path="device/common" name="LeWaCode/lewa_device_common" revision="lewacode" />
+  <project path="device/htc" name="LeWaCode/lewa_device_htc" revision="lewacode" />
   <project path="device/zte" name="LeWaCode/lewa_device_zte" revision="lewacode" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
@@ -191,6 +192,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
   <project path="vendor/lewa" name="LeWaCode/lewa_vendor_lewa" revision="lewacode" />
+  <project path="vendor/htc" name="LeWaCode/lewa_vendor_htc" revision="lewacode" />
   <project path="vendor/zte" name="LeWaCode/lewa_vendor_zte" revision="lewacode" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
 
