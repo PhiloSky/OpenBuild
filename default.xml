@@ -16,6 +16,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="LeWaCode/android_development" revision="lewacode" />
   <project path="device/common" name="LeWaCode/lewa_device_common" revision="lewacode" />
+  <project path="device/sample" name="LeWaCode/lewa_device_sample" revision="lewacode" />
   <project path="device/advent" name="LeWaCode/lewa_device_advent" revision="lewacode" />
   <project path="device/bn" name="LeWaCode/lewa_device_bn" revision="lewacode" />
   <project path="device/commtiva" name="LeWaCode/lewa_device_commtiva" revision="lewacode" />
@@ -27,7 +28,6 @@
   <project path="device/lge" name="LeWaCode/lewa_device_lge" revision="lewacode" />
   <project path="device/malta" name="LeWaCode/lewa_device_malata" revision="lewacode" />
   <project path="device/motorola" name="LeWaCode/lewa_device_motorola" revision="lewacode" />
-  <project path="device/sample" name="LeWaCode/lewa_device_sample" revision="lewacode" />
   <project path="device/samsung" name="LeWaCode/lewa_device_samsung" revision="lewacode" />
   <project path="device/semc" name="LeWaCode/lewa_device_semc" revision="lewacode" />
   <project path="device/zte" name="LeWaCode/lewa_device_zte" revision="lewacode" />
@@ -217,7 +217,6 @@
   <project path="vendor/lge" name="LeWaCode/lewa_vendor_lge" revision="lewacode" />
   <project path="vendor/malta" name="LeWaCode/lewa_vendor_malata" revision="lewacode" />
   <project path="vendor/motorola" name="LeWaCode/lewa_vendor_motorola" revision="lewacode" />
-  <project path="vendor/sample" name="LeWaCode/lewa_vendor_sample" revision="lewacode" />
   <project path="vendor/samsung" name="LeWaCode/lewa_vendor_samsung" revision="lewacode" />
   <project path="vendor/semc" name="LeWaCode/lewa_vendor_semc" revision="lewacode" />
   <project path="vendor/zte" name="LeWaCode/lewa_vendor_zte" revision="lewacode" />
