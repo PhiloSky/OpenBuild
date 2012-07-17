@@ -8,6 +8,7 @@
 
   <project path="build" name="LeWaCode/android_build" revision="lewacode" >
     <copyfile src="core/root.mk" dest="Makefile" />
+    <copyfile src="Openbuild_ReadMe.pdf" dest="Openbuild_ReadMe.pdf" />
   </project>
   <project path="bionic" name="LeWaCode/android_bionic" revision="lewacode" />
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
